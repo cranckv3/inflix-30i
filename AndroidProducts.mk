@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_Infinix-X669C.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_Infinix-X669C-user \
+    twrp_Infinix-X669C-eng \
     twrp_Infinix-X669C-userdebug \
-    twrp_Infinix-X669C-eng
+    twrp_Infinix-X669C-user
